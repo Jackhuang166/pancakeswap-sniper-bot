@@ -1,6 +1,5 @@
-*I'm not maintaining the project anymore, feel free to talk to others in the issues section*
-
-# Making arbitrage between Uniswap V2 and Sushiswap
+# PancakeSwap Sniper Bot
+### Making arbitrage between Uniswap V2 and Sushiswap( Pancakeswap Sniper Bot based on BSC )
 
 ## Index
 + [What its included in this repo?](https://github.com/6eer/uniswap-sushiswap-arbitrage-bot#what-its-included-in-this-repo)
